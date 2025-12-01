@@ -75,7 +75,7 @@ def calculate_analytics(games: list[dict]) -> dict:
             "total_games": total_games,
             "wins": wins,
             "losses": losses,
-            "win_percentage": round(wins / total_games * 100, 1) if total_games > 0 else 0,
+            "win_percentage": round(wins / total_games * 100, 1),
         },
         "scoring": {
             "total_points_scored": total_points_scored,
