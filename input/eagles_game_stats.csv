@@ -1,0 +1,11 @@
+game_id,date,opponent,home_away,points_scored,points_allowed,rushing_yards,passing_yards,turnovers,result
+1,2024-09-06,Green Bay Packers,home,34,29,150,285,1,W
+2,2024-09-16,Atlanta Falcons,away,21,22,98,210,2,L
+3,2024-09-22,New Orleans Saints,away,15,12,120,175,0,W
+4,2024-09-29,Tampa Bay Buccaneers,home,33,16,165,290,1,W
+5,2024-10-06,Cleveland Browns,home,20,16,145,198,0,W
+6,2024-10-13,New York Giants,away,28,3,175,245,0,W
+7,2024-10-20,Cincinnati Bengals,home,37,17,110,320,1,W
+8,2024-10-27,Jacksonville Jaguars,away,28,23,130,265,1,W
+9,2024-11-03,Dallas Cowboys,home,34,6,180,275,0,W
+10,2024-11-10,Washington Commanders,away,26,18,140,220,0,W
